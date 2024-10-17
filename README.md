@@ -1,6 +1,8 @@
 
 # 👋 Hello, World! in Verilog
 
+![gtkwave](/assets/image.png) 
+
 ## Overview
 
 This repo is my playground for printing "Hello, World!" in Verilog 💻, as I prep to echo it via [UART](https://github.com/pindjouf/uart).
